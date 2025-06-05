@@ -6,7 +6,7 @@ This project uses machine learning models to predict the **Air Quality Index (AQ
 
 ## 📁 Dataset
 The dataset used in this project is `data.csv`, which contains daily air quality data for various Indian cities. It includes pollutant concentrations and corresponding AQI values.
-- **Source:** [Government or public repository of air quality data (e.g., CPCB, Kaggle).](https://www.kaggle.com/datasets/hirenvora/city-daycsv)
+- **Source:** [Link to the data repo](https://www.kaggle.com/datasets/hirenvora/city-daycsv)
 - **Features:** Date, City, AQI, PM2.5, PM10, NO2, SO2, CO, O3, Benzene, NO, NOx, NH3, Toluene, Xylene
 - **Time Frame:** Yearwise data from 2015 to 2019.
 
